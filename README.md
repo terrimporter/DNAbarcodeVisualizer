@@ -18,10 +18,12 @@ Create a rainbow-colored DNA barcode SVG image.
 
 ## How to cite
 
-If this is used in a publication, please cite the shiny, ggplo2, and svglite R packages. 
+If this is used in a publication, please cite the shiny, ggplo2, and svglite R packages in addition to the shiny app.
 
 {shiny}
 Chang, W., Cheng, J., Allaire, J., Sievert, C., Schloerke, B., Xie, Y., Allen, J., McPHerson, J., Dipert, A., Borges, B. (2024) _shiny: Web Application Framework for R_. R package version 1.10.0, <https://CRAN.R-project.org/package=shiny>.
+
+Porter, T. M. (2025). DNA barcode visualizer (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.15284442
 
 {ggplot2}
 Wickham, H. (2016) ggplot2: Elegant Graphics for Data Analysis.  Springer-Verlag New York.
